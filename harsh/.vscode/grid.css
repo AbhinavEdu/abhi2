@@ -1,0 +1,10 @@
+h1{
+    height: 230px;
+    width: 250px;
+ text-align: center;
+ color: aliceblue;
+ background-color: transparent;             
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Jmck2tuZ-YbRg0u0H9tS2whYbGud6qmDIw&s);
+ background-size: cover;
+ 
+}

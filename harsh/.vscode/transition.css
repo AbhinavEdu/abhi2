@@ -1,0 +1,19 @@
+.div1{
+    height: 200px;
+    width: 200px;
+    background-color: orangered;
+    border: 2px solid black ;
+}
+
+.div1:hover{
+    background-color: blue;
+    border-radius: 50%;
+    box-shadow: 2px 2px solid red;
+}
+
+.div2{
+    height: 200px;
+    width: 200px;
+    background-color: orangered;
+    border: 2px solid black ; 
+}

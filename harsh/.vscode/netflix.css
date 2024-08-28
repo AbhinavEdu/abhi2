@@ -1,0 +1,113 @@
+
+
+*{
+    background-color: black;
+}
+.hh {
+    height:  180px;
+    width:  180px;
+   display: inline-block;
+ 
+}
+.aa {
+    height:  180px;
+    width:  180px;
+   display: inline-block;
+  
+
+}
+.bb {
+    height: 180px;
+    width:  180px;
+   display: inline-block;
+ 
+}
+.cc {
+    height:  180px;
+    width:  180px;
+   display: inline-block;
+}
+.dd{
+    height: 180px;
+    width:  180px;
+   display: inline-block;
+}
+.ee{
+    height: 180px;
+    width:  180px;
+   display: inline-block;
+}
+.hh :hover{
+    transform: scale(1.25);
+    border: 2px solid black;
+    border-radius: 5px;
+    transition: 0.50s;
+    display: inline-block;
+    box-shadow: 2px 2px 5px rgb(255, 255, 255);
+
+}
+.aa :hover{
+    
+    transform: scale(1.25);
+    border: 2px solid black;
+    border-radius: 5px;
+    transition: 0.50s;
+    display: inline-block;
+    box-shadow: 2px 2px 5px rgb(255, 255, 255);
+
+}
+.bb :hover{
+    transform: scale(1.25);
+    border: 2px solid black;
+    border-radius: 5px;
+    transition: 0.50s;
+    display: inline-block;
+    box-shadow: 2px 2px 5px rgb(255, 255, 255);
+    }
+
+.cc :hover{
+    transform: scale(1.25);
+    border: 2px solid black;
+    border-radius: 5px;
+    transition: 0.50s;
+    display: inline-block;
+    box-shadow: 2px 2px 5px rgb(255, 255, 255);
+    }
+
+.dd :hover{
+    transform: scale(1.25);
+    border: 2px solid black;
+    border-radius: 5px;
+    transition: 0.50s;
+    display: inline-block;
+    box-shadow: 2px 2px 5px rgb(255, 255, 255);
+    }
+
+.ee :hover{
+    transform: scale(1.25);
+border: 2px solid black;
+border-radius: 5px;
+transition: 0.50s;
+display: inline-block;
+box-shadow: 2px 2px 5px rgb(255, 255, 255);
+}
+h3{
+    background-color: black;
+    color: white;
+}
+a{
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    text-decoration: none;
+    margin: 15px;
+    position: relative;
+    top: 55px;
+    background-color: transparent;
+}
+h1{
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    position: relative;
+    bottom: 200px;
+    background-color:red;
+}

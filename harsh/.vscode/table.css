@@ -1,0 +1,30 @@
+li.head{
+    color: blueviolet;
+}
+table{
+    background-color: rgb(236, 164, 6);
+}
+.tt{
+    color: rgb(231, 55, 90);
+}
+.yy{
+    color: rgb(209, 2, 209);
+}
+.uu{
+    color: darkviolet;
+}
+.ii{
+    color: blueviolet;
+}
+.oo{
+    background-color: rgb(236, 164, 6);
+}
+.pp{
+    color: rgb(231, 55, 90);
+}
+.aa{
+    color: rgb(209, 2, 209);
+
+}
+h1{text-align: center;}
+table{ margin: auto;}

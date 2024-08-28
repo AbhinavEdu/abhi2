@@ -1,0 +1,43 @@
+div{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-color: crimson;
+    animation-name: harsh;
+    animation-duration: 3s;
+    animation-timing-function:initial;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    animation-direction:alternate;
+ }
+    @keyframes harsh {
+       from{
+        background-color: cyan;
+        height: 300px;
+        width:300px;
+    }      
+      to{
+        background-color: chartreuse;
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+
+    }
+    }
+    @keyframes innere {
+        from{
+            background-color: antiquewhite;
+            height: 200px;
+            width: 200px;
+        }
+        to{
+            background-color: blue;
+            height: 50px;
+            width: 50px;
+            border-radius: 50%;
+            margin-top: 50px;
+            margin-left: 50px;
+        }
+    }
+     
+    
